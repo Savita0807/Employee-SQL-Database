@@ -57,18 +57,14 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
    connection = engine.connect()
    ```
 
-* Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
-
-* If using a password, do not upload your password to your GitHub repository. See [https://www.youtube.com/watch?v=2uaTPmNvH0I](https://www.youtube.com/watch?v=2uaTPmNvH0I) and [https://help.github.com/en/github/using-git/ignoring-files](https://help.github.com/en/github/using-git/ignoring-files) for more information.
-
 2. Create a histogram to visualize the most common salary ranges for employees.
 
-![Salary_Vs_Employeecount_Histogram](Images/Salary_Vs_Employeecount_Histogram.PNG)
+![Salary_Vs_Employeecount_Histogram](Images/Salary_Vs_Employeecount_Histogram.png)
 
 
 3. Create a bar chart of average salary by title.
 
- ![Emp_Title_Vs_Avg_Salary](Images/Emp_Title_Vs_Avg_Salary.PNG)
+![Emp_Title_Vs_Avg_Salary](Images/Emp_Title_Vs_Avg_Salary.png)
 
 ## Submission
 
