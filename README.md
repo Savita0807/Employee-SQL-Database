@@ -62,9 +62,11 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 * If using a password, do not upload your password to your GitHub repository. See [https://www.youtube.com/watch?v=2uaTPmNvH0I](https://www.youtube.com/watch?v=2uaTPmNvH0I) and [https://help.github.com/en/github/using-git/ignoring-files](https://help.github.com/en/github/using-git/ignoring-files) for more information.
 
 2. Create a histogram to visualize the most common salary ranges for employees.
+
 ![Salary Vs Employeecount Histogram](Salary Vs Employeecount Histogram.PNG)
 
 3. Create a bar chart of average salary by title.
+
 ![Emp Title Vs Avg Salary](Emp Title Vs Avg Salary.PNG)
 
 ## Submission
