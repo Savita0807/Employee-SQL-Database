@@ -59,7 +59,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
-![Salary_Vs_ Employeecount_Histogram](Images/Salary_Vs_ Employeecount_Histogram.PNG)
+![Salary_Vs_Employeecount_Histogram](Images/Salary_Vs_Employeecount_Histogram.png)
 
 
 3. Create a bar chart of average salary by title.
